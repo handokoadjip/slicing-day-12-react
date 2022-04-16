@@ -43,18 +43,20 @@ const index = () => {
           {lists.map((list, index) => {
             return (
               <div className="col-6 col-lg-3 p-0" key={`image${index}`}>
-                <img
-                  className="w-100"
-                  src={list.image}
-                  alt={`gallery-${index}`}
-                />
+                <figure className="m-0">
+                  <img
+                    className="w-100"
+                    src={list.image}
+                    alt={`gallery-${index}`}
+                  />
+                </figure>
               </div>
             );
           })}
 
           <div className={`col-6 p-0 ${lists ? "col-lg-3 " : "col-lg-12"}`}>
             <div className="position-relative">
-              <figure>
+              <figure className="m-0">
                 <img
                   className="w-100 v-invisible"
                   src={Gallery8}
