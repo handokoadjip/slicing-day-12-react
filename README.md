@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjip/slicing-day-12-react/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Day 12, I will show you the slicing to react of the beautiful designs made by https://pin.it/3XD2cWe
+Day 12, I will show you the slicing to react of the beautiful designs made by https://pin.it/3XD2cWe.
 
 For those who want to contribute, just fork or download as usual!
 
